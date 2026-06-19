@@ -1,0 +1,6 @@
+{
+  "name": "AeroChat",
+  "description": "A premium real-time communications chat application with inline message editing, deleting, reactions, stories on status rings, custom user biographies, private and public group configuration setups, and monochromatic aesthetic themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
